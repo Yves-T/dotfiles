@@ -49,4 +49,4 @@ export PATH=$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr
 
 [ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
 
-export GIT_EDITOR='/Applications/MacVim.app/Contents/MacOS/Vim -g '
+export GIT_EDITOR='/Applications/MacVim.app/Contents/MacOS/Vim -g -f '
